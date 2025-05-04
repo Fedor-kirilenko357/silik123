@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-color:#6360c8;
+    margin:10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    
+}
+
+p{
+   width: 200px;
+   float: right;
+   background-color: #6360c8;
+   text-align: center;
+   margin: 70px;
+   font-size:xx-large;
+   height: 270px;
+   
+} 
+
+ zxc2{
+    width: 100px;
+    height:100px;
+}
+
+h2 {
+    color:#6360c8;
+}
